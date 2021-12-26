@@ -115,7 +115,11 @@ const config = {
               },
               {
                 label: 'Go Oficial Repo',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/golang/go',
+              },
+              {
+                label: 'Original Awesome Go Repo',
+                href: 'https://github.com/avelino/awesome-go',
               },
             ],
           },
