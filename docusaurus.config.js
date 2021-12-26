@@ -77,7 +77,7 @@ const config = {
             items: [
               {
                 label: 'Introduction',
-                to: '/docs/intro',
+                to: '/docs/Intro',
               },
               {
                 label: 'Libraries',
