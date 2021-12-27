@@ -17,9 +17,10 @@ const config = {
   projectName: 'go_awesome', // Usually your repo name.
   plugins: [
     [
-      '@docusaurus/plugin-google-analytics',
+      '@docusaurus/plugin-google-gtag',
       {
-        trackingID: 'G-458WCL5EPK',
+        trackingID: 'UA-141789564-1',
+        anonymizeIP: true,
       },
     ],
   ],

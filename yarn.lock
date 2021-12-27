@@ -1379,7 +1379,7 @@
     "@docusaurus/utils-validation" "2.0.0-beta.14"
     "tslib" "^2.3.1"
 
-"@docusaurus/plugin-google-gtag@2.0.0-beta.14":
+"@docusaurus/plugin-google-gtag@^2.0.0-beta.14", "@docusaurus/plugin-google-gtag@2.0.0-beta.14":
   "integrity" "sha512-DcaNRvu0VLS/C6qRAG0QNWjnuP8dAdzH0NOfl86AxdK6dWOP5NlGD9QoIFKTa19PB8iTzM2XZn/hOCub4hR6MQ=="
   "resolved" "https://registry.npmjs.org/@docusaurus/plugin-google-gtag/-/plugin-google-gtag-2.0.0-beta.14.tgz"
   "version" "2.0.0-beta.14"
@@ -6034,6 +6034,7 @@
   "version" "6.0.10"
 
 "react-error-overlay@7.0.0-next.54+1465357b":
+  "integrity" "sha512-b96CiTnZahXPDNH9MKplvt5+jD+BkxDw7q5R3jnkUXze/ux1pLv32BBZmlj0OfCUeMqyz4sAmF+0ccJGVMlpXw=="
   "version" "7.0.0-next.54"
 
 "react-fast-compare@^3.1.1":
