@@ -15,7 +15,14 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'fernandobelotto', // Usually your GitHub org/user name.
   projectName: 'go_awesome', // Usually your repo name.
-
+  plugins: [
+    [
+      '@docusaurus/plugin-google-analytics',
+      {
+        trackingID: 'G-458WCL5EPK',
+      },
+    ],
+  ],
   presets: [
     [
       'classic',
