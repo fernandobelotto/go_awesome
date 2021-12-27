@@ -15,20 +15,14 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'fernandobelotto', // Usually your GitHub org/user name.
   projectName: 'go_awesome', // Usually your repo name.
-  plugins: [
-    [
-      '@docusaurus/plugin-google-gtag',
-      {
-        trackingID: 'UA-141789564-1',
-        anonymizeIP: true,
-      },
-    ],
-  ],
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        gtag: {
+          trackingID: 'G-458WCL5EPK',
+        },
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
